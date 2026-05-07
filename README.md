@@ -1,5 +1,13 @@
-# life_expectancy_analysis
+# Life Expectancy Analysis
 # Determinants of Life Expectancy: A Machine Learning Analysis
+
+## Research Team
+Developed as a collaborative poster research project at Pace University, Seidenberg School of CS & IS.
+
+- Y. Donegal — Co-author
+- H. Etikela — Co-author
+- A. Keegan — Co-author
+- Dr. K. M. Bathula — Faculty Advisor
 
 This project explores the socioeconomic and environmental factors that influence global life expectancy using machine learning. Using the World Bank’s World Development Indicators (WDI), the analysis includes data cleaning, feature engineering, model development, and clustering to uncover patterns in global health efficiency.
 
